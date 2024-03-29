@@ -1,0 +1,9 @@
+git init  - 마스터 권한 획득
+git remote add origin 깃허브링크.git
+git config user.name "이름"
+git config user.mail "이메일"
+git push origin master 푸시 명령어 / -f 붙힐시 강제로 실행
+git commit / 수정창 열기
+git reset --hard 해시태그 / 리셋
+git checkout -b "이름"
+git clone "링크".git
